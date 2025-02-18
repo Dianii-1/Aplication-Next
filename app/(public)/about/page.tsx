@@ -1,5 +1,3 @@
-import { title } from "process"
-
 export const metadata = {
     title:'about page',
     description:'is a page about'
